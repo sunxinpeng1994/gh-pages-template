@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Markdown is wonderfoul!
 
 *helllo hello*
